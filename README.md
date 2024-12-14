@@ -1,5 +1,5 @@
 # Drippy
-## Let AI Style You
+## Let AI Style You!
 
 Drippy allows you to unlock your hidden style with the power of AI!
 With Drippy generate an outfit based of your clothes and the vibe your going for!
