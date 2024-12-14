@@ -1,38 +1,15 @@
-# sv
+# Drippy
+## Let AI Style You
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Drippy allows you to unlock your hidden style with the power of AI!
+With Drippy generate an outfit based of your clothes and the vibe your going for!
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+> #### How To Use:
+>
+> - Visit: https://drippy.vercel.app
+> - Click ``` Try for FREE ```
+> - Upload your clothes **(use a small image in size!)** _i aint payin for a gud server duh_
+> - Type in the vibe your going for
+> - Hit ``` Style Me ```
+> - Let the magic happen!
