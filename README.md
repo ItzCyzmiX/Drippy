@@ -38,9 +38,14 @@ In a folder run these command
 ```bash
 git clone https://github.com/ItzCyzmiX/Drippy.git ./
 npm i
-
 ```
 
+change the api key in ``` src/routes/style/+server.js ``` the the one you saved (Groq)
+change the api key in ``` src/routes/style/+page.svelte ``` the the one you saved (imgbb)
 
+then run:
+```bash
+npm run dev
+```
 check the localy hosted version of the website in localhost:5137
 If it works, all thats left is to build site with ``` npm run build ``` and host it online!
